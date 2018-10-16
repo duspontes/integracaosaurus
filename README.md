@@ -1,5 +1,5 @@
 # Integração Saurus x Websac
-****
+
 
 ### Detalhes sobre integração Saurus x Websac
 Temos o xml de recebimento de venda e de carga de produtos na pasta xml:
