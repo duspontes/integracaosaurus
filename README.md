@@ -11,7 +11,7 @@ E na pasta php temos os arquivos de integração com o saurus:
 - saurus-cupom.php
 - saurus-retaguarda.php
 
-Usamos no Websac as url da seguinte forma, para configuracao do WSDL no Saurus:
+Usamos no Websac as url da seguinte forma, para configuração do WSDL no Saurus:
 - http://controlware.websac.net/serv/saurus-cadastro.php
 - http://controlware.websac.net/serv/saurus-cupom.php
 - http://controlware.websac.net/serv/saurus-retaguarda.php
